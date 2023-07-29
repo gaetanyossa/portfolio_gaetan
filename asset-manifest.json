@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio_gaetan/static/css/main.cd7501d7.css",
+    "main.js": "/portfolio_gaetan/static/js/main.76fa0aa7.js",
+    "static/media/gaetanmotors.png": "/portfolio_gaetan/static/media/gaetanmotors.ee12539b6ae865c38209.png",
+    "static/media/portfolio.png": "/portfolio_gaetan/static/media/portfolio.45838efaffc427ca27c6.png",
+    "static/media/ChatPortfolio.png": "/portfolio_gaetan/static/media/ChatPortfolio.ceed994d6e3129ea715e.png",
+    "static/media/boy.png": "/portfolio_gaetan/static/media/boy.ef404d00477ae54c4592.png",
+    "static/media/resume.pdf": "/portfolio_gaetan/static/media/resume.d85f214b28e86f7c0ff8.pdf",
+    "static/media/todolist.png": "/portfolio_gaetan/static/media/todolist.6b8a4688d486e48d5992.png",
+    "static/media/glassesimoji.png": "/portfolio_gaetan/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/fitness.jpg": "/portfolio_gaetan/static/media/fitness.f66a3d15f1e57fe1d130.jpg",
+    "static/media/thumbup.png": "/portfolio_gaetan/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolio_gaetan/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio_gaetan/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio_gaetan/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio_gaetan/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio_gaetan/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio_gaetan/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio_gaetan/index.html",
+    "main.cd7501d7.css.map": "/portfolio_gaetan/static/css/main.cd7501d7.css.map",
+    "main.76fa0aa7.js.map": "/portfolio_gaetan/static/js/main.76fa0aa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7501d7.css",
+    "static/js/main.76fa0aa7.js"
+  ]
+}
